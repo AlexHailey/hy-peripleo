@@ -3,7 +3,7 @@
   "map_style": "./map-style-OSM.json",
   "data": [
     {
-      "name": "TilesStoves",
+      "name": "Tiled Stoves",
       "format": "LINKED_PLACES",
       "src": "./demo-dataset.lp.json",
       "attribution": "Kaiser Franz Josef Museum"
